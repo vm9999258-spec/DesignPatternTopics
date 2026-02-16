@@ -1,0 +1,15 @@
+C:\Users\Vishal Mishra\source\repos\vm9999258-spec\Design patterns\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal Mishra\source\repos\vm9999258-spec\Design patterns\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Vishal Mishra\source\repos\vm9999258-spec\Design patterns\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.AssemblyInfo.cs
+C:\Users\Vishal Mishra\source\repos\vm9999258-spec\Design patterns\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Vishal Mishra\source\repos\vm9999258-spec\Design patterns\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.sourcelink.json
+C:\Users\Vishal Mishra\source\repos\vm9999258-spec\Design patterns\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.exe
+C:\Users\Vishal Mishra\source\repos\vm9999258-spec\Design patterns\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.deps.json
+C:\Users\Vishal Mishra\source\repos\vm9999258-spec\Design patterns\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.runtimeconfig.json
+C:\Users\Vishal Mishra\source\repos\vm9999258-spec\Design patterns\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.dll
+C:\Users\Vishal Mishra\source\repos\vm9999258-spec\Design patterns\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.pdb
+C:\Users\Vishal Mishra\source\repos\vm9999258-spec\Design patterns\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.dll
+C:\Users\Vishal Mishra\source\repos\vm9999258-spec\Design patterns\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\refint\FactoryDesignPattern.dll
+C:\Users\Vishal Mishra\source\repos\vm9999258-spec\Design patterns\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.pdb
+C:\Users\Vishal Mishra\source\repos\vm9999258-spec\Design patterns\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.genruntimeconfig.cache
+C:\Users\Vishal Mishra\source\repos\vm9999258-spec\Design patterns\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\ref\FactoryDesignPattern.dll
